@@ -1,0 +1,59 @@
+<annotation>
+    <folder>output</folder>
+    <filename>56864edacf58f18e60df4c5e_input.pdf-0000.png</filename>
+    <path>/output/56864edacf58f18e60df4c5e_input.pdf-0000.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1920</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Section Header</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.9131905</difficult>
+        <bndbox>
+            <xmin>116</xmin>
+            <ymin>992</ymin>
+            <xmax>199</xmax>
+            <ymax>1027</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>Body Text</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.8800585</difficult>
+        <bndbox>
+            <xmin>42</xmin>
+            <ymin>1119</ymin>
+            <xmax>1015</xmax>
+            <ymax>1502</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>Page Header</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.80156493</difficult>
+        <bndbox>
+            <xmin>203</xmin>
+            <ymin>113</ymin>
+            <xmax>1004</xmax>
+            <ymax>139</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>Section Header</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0.79824626</difficult>
+        <bndbox>
+            <xmin>331</xmin>
+            <ymin>365</ymin>
+            <xmax>1265</xmax>
+            <ymax>526</ymax>
+        </bndbox>
+    </object>
+</annotation>
